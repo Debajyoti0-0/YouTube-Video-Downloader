@@ -61,7 +61,7 @@ root = Tk()
 root.title("YouTube Video Dowloader")
 
 #Set size of window
-root.geometry("855x500")
+root.geometry("955x600")
 
 #Make the Window not Resizeable
 root.resizable(False, False)
