@@ -13,7 +13,7 @@ pip3 install tk
 ```
 2. The Documentation for this API check [here](https://python-pytube.readthedocs.io/en/latest/)
 
-## Instructions to Run the Application
+## Instructions to Run the Application:
 
 1. Download and Run the **uTube_video.py** script.
 2. Enter the URL of the YouTube video.
